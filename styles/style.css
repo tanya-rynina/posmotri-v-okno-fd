@@ -155,7 +155,7 @@ ol {
   font-size: 18px;
   font-weight: 400;
   line-height: 21.6px;
-  color: rgba(255,255,255,0.7);
+  color: rgba(255, 255, 255, 0.7);
 }
 
 .search-form__textfield:focus-visible {
@@ -239,7 +239,7 @@ ol {
 
 .title {
   margin-bottom: 23px;
-  font-family: 'Oswald', sans-serif;
+  font-family: "Oswald", sans-serif;
   font-size: 75px;
   font-weight: 700;
   line-height: 70px;
@@ -265,7 +265,7 @@ ol {
   width: 4px;
 }
 .content__list-container::-webkit-scrollbar-track {
-  background: rgba(217,217,217,0.10);
+  background: rgba(217, 217, 217, 0.1);
 }
 .content__list-container::-webkit-scrollbar-thumb {
   background: #d9d9d9;
@@ -330,7 +330,7 @@ ol {
 }
 
 .content__video-card-title {
-  font-family: 'Oswald', sans-serif;
+  font-family: "Oswald", sans-serif;
   font-size: 30px;
   font-weight: 700;
   line-height: 30px;
@@ -379,6 +379,13 @@ ol {
   text-align: center;
   cursor: pointer;
 }
-.more-button:hover { text-decoration: underline; }
-.more-button:active { background-color: #545050; }
-.more-button:focus-visible { outline: 1px solid #fff; outline-offset: 1px; }
+.more-button:hover {
+  text-decoration: underline;
+}
+.more-button:active {
+  background-color: #545050;
+}
+.more-button:focus-visible {
+  outline: 1px solid #fff;
+  outline-offset: 1px;
+}
