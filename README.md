@@ -1,1 +1,1 @@
-https://github.com/tanya-rynina/ono-tebe-nado-fd
+https://github.com/tanya-rynina/posmotri-v-okno-fd
